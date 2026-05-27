@@ -13,12 +13,12 @@
   "build": {
   "appId": "com.church.mac",
   "productName": "Church Desktop App",
-  "publish": "never",
   "mac": {
     "target": "dmg",
     "category": "public.app-category.productivity"
   }
 }
 }
+
   
 
